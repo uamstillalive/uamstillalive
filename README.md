@@ -1,6 +1,5 @@
-## Hi there 👋
+def averageJoke():
+    print("Why did the automation engineer hate stairs?")
+    print("Too many manual steps!")
 
-
-- 🔭 I’m currently working on lots of stuff..
-- 🌱 I’m currently learning Rust!
-- 👯 I’m looking to collaborate on anything you want!
+averageJoke()
